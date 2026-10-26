@@ -1,0 +1,3 @@
+Model,Test Accuracy (%),ROC-AUC (%),Correct Predictions,Total Test Images,Accuracy Improvement (percentage points)
+CNN-LSTM,50.89,72.49,229,450,0.0
+MobileNetV2,94.44,98.57,425,450,43.55

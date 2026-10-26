@@ -1,0 +1,21 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Generated reports / temporary files
+*.pdf
+*.tmp
+.DS_Store
+Thumbs.db
